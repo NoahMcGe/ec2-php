@@ -14,6 +14,7 @@ return array(
     'hidden_files' => array(
         '.ht*',
         '*/.ht*',
+	'img',
 	'php-a1.py',
 	'php-a2.py',
 	'php-b.py',

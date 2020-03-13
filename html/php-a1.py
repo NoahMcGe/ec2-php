@@ -5,7 +5,7 @@ bash=os.system
 
 def bashfun():
 	bash("rm index.php -f")
-	bash("cp ../opendir2/* /var/www/html/ -r")
+	bash("cp ../opendir2/* /home/noah/http/html/ -r")
 
 
 def main():
